@@ -1,19 +1,28 @@
-[
-    {
-        "john": [
-            "tomate",
-            "pomme",
-            "oranges"
-        ],
-        "ali": [
-            "lait",
-            "fromage",
-            "oeufs"
-        ],
-        "marie": [
-            "pain",
-            "cocacola",
-            "jus"
-        ]
-    }
-]
+{
+    "users": [
+        {
+            "name": "john",
+            "list": [
+                "tomate",
+                "pomme",
+                "oranges"
+            ]
+        },
+        {
+            "name": "ali",
+            "list": [
+                "lait",
+                "fromage",
+                "oeufs"
+            ]
+        },
+        {
+            "name": "marie",
+            "list": [
+                "pain",
+                "cocacola",
+                "jus"
+            ]
+        }
+    ]
+}
