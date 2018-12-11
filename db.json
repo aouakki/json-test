@@ -1,0 +1,19 @@
+[
+    {
+        "john": [
+            "tomate",
+            "pomme",
+            "oranges"
+        ],
+        "ali": [
+            "lait",
+            "fromage",
+            "oeufs"
+        ],
+        "marie": [
+            "pain",
+            "cocacola",
+            "jus"
+        ]
+    }
+]
