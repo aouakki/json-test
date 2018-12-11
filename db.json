@@ -1,7 +1,7 @@
 {
   "users": [
-    { "name": "ali", "title": "Post 1" },
-    { "name": "marie", "title": "Post 2" },
-    { "name": "john", "title": "Post 3" }
+    { "name": "ali", "list": ["lait","fromage","oeufs"] },
+    { "name": "marie", "list": ["lait","fromage","oeufs"] },
+    { "name": "john", "list": ["lait","fromage","oeufs"] }
   ]
 }
